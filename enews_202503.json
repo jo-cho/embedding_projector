@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Economy News 202503",
+      "tensorShape": [
+        7373,
+        128
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202503/news_2503_sbert_vecs_without_noise.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202503/news_2503_sbert_metadata_cluster_without_noise.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202503/bookmark_state_news_2503.txt"
+    }
+  ]
+}
