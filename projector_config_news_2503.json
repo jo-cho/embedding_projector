@@ -6,9 +6,9 @@
         7373,
         128
       ],
-      "tensorPath": "https://raw.githubusercontent.com/jo-cho/projector_tensorboard/refs/heads/main/news_2503_sbert_vecs_without_noise.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/jo-cho/projector_tensorboard/refs/heads/main/news_2503_sbert_metadata_cluster_without_noise.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/jo-cho/projector_tensorboard/refs/heads/main/bookmark_state_news_2503.txt"
+      "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/news_2503_sbert_vecs_without_noise.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/news_2503_sbert_metadata_cluster_without_noise.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/bookmark_state_news_2503.txt"
     }
   ]
 }
