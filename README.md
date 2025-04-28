@@ -1,8 +1,8 @@
 # Embedding Projector
 
-News articles and analysis code are not provided(*contact me if needed*)
+Original texts and analysis code are not provided(*contact me if needed*).
 
-All labels are in Korean
+All labels are in Korean.
 
 ## Models
 - Embedding Model: pre-trained SBERTs, OpenAI embedding models (models can be changed depending on the setting)
@@ -15,7 +15,8 @@ All labels are in Korean
 - [Economic News – April 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202504.json)
 
 ## Policy Documents
-- [Economic Policy Documents](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/epic_epts.json)
+- [Government Press Release(경제관련 정부 보도자료)](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/epic_epts.json)
+- [Economic Policy(경제정책자료)](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/epolicy.json)
 
 ## To-dos
 
