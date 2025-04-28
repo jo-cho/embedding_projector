@@ -1,13 +1,22 @@
 # Embedding Projector
 
-## 월별 경제 뉴스 & 이슈
-- [2025년 2월 경제 뉴스](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202502.json)
-- [2025년 3월 경제 뉴스](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202503.json)
-- [2025년 4월 경제 뉴스](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202504.json)
+*News articles and analysis code are not provided*
 
-## 정책자료
-- [경제 정책자료](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/epic_epts.json)
+*All labels are in Korean*
+
+## Models
+- Embedding Model: pre-trained SBERTs, OpenAI embedding models (models can be changed depending on the setting)
+- Clustering: HDBSCAN with UMAP
+- Topic Representation: News headline-based OpenAI summarization(gpt4.1-mini, model choice may vary) 
+
+## Monthly Economic News & Issues
+- [Economic News – February 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202502.json)
+- [Economic News – March 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202503.json)
+- [Economic News – April 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202504.json)
+
+## Policy Documents
+- [Economic Policy Documents](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/epic_epts.json)
 
 ## To-dos
 
-- [ ] Bookmarks 해결
+- [ ] Resolve bookmarks issue
