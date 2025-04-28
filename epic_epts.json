@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "EPTS policy data (no clusters)",
+      "tensorName": "EPIC Government press releases (no clusters)",
       "tensorShape": [
         7373,
         128
