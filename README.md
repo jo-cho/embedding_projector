@@ -1,8 +1,8 @@
 # Embedding Projector
 
-*News articles and analysis code are not provided*
+News articles and analysis code are not provided(*contact me if needed*)
 
-*All labels are in Korean*
+All labels are in Korean
 
 ## Models
 - Embedding Model: pre-trained SBERTs, OpenAI embedding models (models can be changed depending on the setting)
