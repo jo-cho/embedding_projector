@@ -7,7 +7,7 @@ All labels are in Korean.
 ## Models
 - Embedding Model: pre-trained SBERTs, OpenAI embedding models (models can be changed depending on the setting)
 - Clustering: HDBSCAN with UMAP
-- Topic Representation: N-gram Keyword based (or News headline-based) OpenAI summarization(gpt4.1-mini, model choice may vary) 
+- Topic Representation: N-gram keywords based (or News headline-based) OpenAI summarization(gpt4.1-mini, model choice may vary) 
 
 ## Monthly Economic News & Issues
 - [Economic News – February 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202502.json)
