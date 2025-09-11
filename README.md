@@ -10,6 +10,7 @@ All labels are in Korean.
 - Topic Representation: News headline-based ChatGPT summarization
 
 ## Monthly Economic News & Issues
+- [Economic News – May 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202505.json)
 - [Economic News – August 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202508.json)
 
 ## Policy Documents
