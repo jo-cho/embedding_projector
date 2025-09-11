@@ -6,8 +6,8 @@
         10074,
         1536
       ],
-      "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202505/news_2508_vecs.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202505/news_2508_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202508/news_2508_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202508/news_2508_metadata.tsv"
     }
   ]
 }
