@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Korean Economic Research Data (-2025.9)",
+      "tensorShape": [
+        3,
+        3
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/epic/economic_kor_research_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/epic/economic_kor_research_metadata.tsv"
+    }
+  ]
+}
