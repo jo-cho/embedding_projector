@@ -1,4 +1,4 @@
-# Embedding Projector
+# Economic Text Data 3D Embedding Visualization
 
 Original texts and analysis code are not provided(*contact me if needed*).
 
