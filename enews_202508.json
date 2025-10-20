@@ -3,11 +3,12 @@
     {
       "tensorName": "Economy News 202508",
       "tensorShape": [
-        10074,
-        1536
+        9664,
+        3
       ],
       "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202508/news_202508_vecs.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202508/news_202508_metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202508/news_202508_metadata.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/enews/202508/news_202508_bookmark.txt"
     }
   ]
 }
