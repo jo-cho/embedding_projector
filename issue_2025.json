@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "Economy News 202508",
+      "tensorName": "Economy Issue 2025",
       "tensorShape": [
         9664,
         3
       ],
-      "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/issue/2025/news_2025_vecs.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/issue/2025/news_2025_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/issue/news_2025_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/issue/news_2025_metadata.tsv"
     }
   ]
 }
