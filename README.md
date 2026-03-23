@@ -15,6 +15,7 @@ Original texts and analysis code are not provided(*contact me if needed*).
 - [Economic Research Papers](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/economic_eng_research.json)
 - [Economic Research Papers(Korean)](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/economic_kor_research.json)
   
-## To-dos
+## Annual Economic Issues
+- [Economic Issues(Korean) – 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/issues_2025.json)
 
 
