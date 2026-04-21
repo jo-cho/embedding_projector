@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "EPTS Korean Economic Policy Data (no clusters)",
+      "tensorName": "EPTS Korean Economic Policy Data",
       "tensorShape": [
         7373,
-        128
+        3
       ],
-      "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/epic/epts_policy_sbert_vecs.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/epic/epts_policy_sbert_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/epic/epts_policy_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/data/epic/epts_policy_metadata.tsv"
     }
   ]
 }
