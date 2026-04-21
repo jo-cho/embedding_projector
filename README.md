@@ -12,10 +12,10 @@ Original texts and analysis code are not provided(*contact me if needed*).
 - [Economic News(Korean) – August 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/enews_202508.json)
 
 ## Policy Documents
-- [Economic Research Papers](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/economic_eng_research.json)
+- [Economic Research Papers(English)](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/economic_eng_research.json)
 - [Economic Research Papers(Korean)](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/economic_kor_research.json)
   
 ## Annual Economic Issues
-- [Economic Issues(Korean) – 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/issues_2025.json)
+- [Economic Issues(Korean) – 2025](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jo-cho/embedding_projector/refs/heads/main/issue_2025.json)
 
 
